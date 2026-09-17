@@ -467,3 +467,18 @@ position_close
 を別々に保存する。
 
 これにより、後の設計図作成時に「予想が当たった人」としてではなく、予想が外れたり状況が変わったときに、どのように判断を更新する人物なのかまで分析できる。
+
+related_logs:
+  - HIRO-2026-09-18
+
+relation:
+  - next_action
+  - same_position
+  - position_close
+  - thesis_update
+
+後続情報:
+2026-09-18ログで、Anthropic IPO延期に加えてHoltec NuclearのIPOも延期されたことを受け、当初のイベントドリブン仮説を維持できないとしてSoundHound AIの損切りを表明。
+
+本人は今回、9月初めの購入価格を「約7ドル」と回顧している。
+これは後日確認された retrospective_self_report として扱い、2026-09-02当日に確認済みだった価格情報としては扱わない。
