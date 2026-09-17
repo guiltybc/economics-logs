@@ -450,3 +450,16 @@ SOUN：
 同じ日でも異なる投資ロジックをどう使い分けていたか
 
 である。
+
+related_logs:
+  - HIRO-2026-09-18
+
+relation:
+  - macro_context_continuation
+  - market_regime_update
+  - risk_level_update
+
+後続情報:
+2026-09-18、AI投資・資金調達環境への警戒が「利益化までの距離」「外部資金依存度」「キャッシュ創出力」によって企業を選別する市場仮説へ具体化。
+
+SoundHound AIでは、この認識変化とAnthropic/HoltecのIPO延期を受け、実際の損切り判断に至った。
