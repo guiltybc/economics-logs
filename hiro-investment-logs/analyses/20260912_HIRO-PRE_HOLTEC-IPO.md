@@ -1,4 +1,10 @@
 ---
+layout: hiro-analyses
+title: "2026年9月12日 投資イベント先読み"
+description: "Holtec Nuclear IPO"
+---
+
+---
 experiment_id: HIRO-PRE-2026-09-12-HOLTEC-IPO
 target: Holtec Nuclear Corporation IPO (HNUC)
 baseline_date: 2026-09-12
