@@ -1,4 +1,10 @@
 ---
+layout: hiro-log
+title: "2026年9月18日 投資行動分析ログ"
+description: "ひろ氏は、9月初めにAnthropicのIPO期待を主要な投資理由として購入していたSoundHound AIについて、約13％の損失で損切りする方針を明言した。"
+---
+
+---
 date: 2026-09-18
 log_id: HIRO-2026-09-18
 subject: 投資歴10年 ロジカルサバイバー ひろ
