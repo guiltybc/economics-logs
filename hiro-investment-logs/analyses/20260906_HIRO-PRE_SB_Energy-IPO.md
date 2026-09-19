@@ -1,3 +1,9 @@
+---
+layout: hiro-analyses
+title: "2026年9月6日 投資イベント先読み"
+description: "SB Energy IPO"
+---
+
 SB Energy IPOの公開情報を横断し、確定事実と観測を分けて集めます。分析日は 2026年9月6日。対象は SB Energy（予定ティッカー SBE）の米国IPO準備。投資判断（買い／売り／配分）は行わない。数字は「実現段階」を必ず付ける。
 
 ① EVENT SUMMARY
