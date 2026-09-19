@@ -1,3 +1,9 @@
+---
+layout: hiro-analyses
+title: "2026年9月19日 投資イベント先読み"
+description: "maero Inc.（AMRO）米国IPO"
+---
+
 17s考えました
 
 実行しました。今回は Amaero Inc.（AMRO）の米国IPO、基準日を 2026年9月19日 に固定します。
