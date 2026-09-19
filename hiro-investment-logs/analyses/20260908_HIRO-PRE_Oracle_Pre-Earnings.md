@@ -1,5 +1,5 @@
 ---
-layout: hiro-analyses
+layout: hiro-log
 title: "2026年9月8日 投資イベント先読み"
 description: "Oracle Q1 FY2027決算"
 ---
