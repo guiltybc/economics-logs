@@ -1,7 +1,7 @@
 ---
 layout: hiro-analyses
 title: "2026年9月19日 投資イベント先読み"
-description: "maero Inc.（AMRO）米国IPO"
+description: "Amaero Inc.（AMRO）米国IPO"
 ---
 
 17s考えました
