@@ -1,3 +1,9 @@
+---
+layout: hiro-log
+title: "2026年5月7日 投資行動分析ログ"
+description: "ひろ氏は、中東情勢とホルムズ海峡の物流混乱が続く市場環境で、リチウム関連株、とりわけチリのリチウム大手SQM（Sociedad Química y Minera de Chile）への投資を提示した。"
+---
+
 date: 2026-05-07 log_id: HIRO-2026-05-07 subject: 投資歴10年 ロジカルサバイバー ひろ action_type:
 
 自己保有
