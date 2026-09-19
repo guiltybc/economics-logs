@@ -1,5 +1,5 @@
 ---
-layout: hiro-analyses
+layout: hiro-log
 title: "2026年9月6日 投資イベント先読み"
 description: "SB Energy IPO"
 ---
