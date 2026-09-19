@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title | default: "ひろお兄さん 投資行動分析ログ" }}</title>
+
+  <meta name="description"
+        content="{{ page.description | default: '公開発言から投資行動・市場認識・投資仮説・判断基準の変化を時系列で追跡。' }}">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title"
+        content="{{ page.title | default: 'ひろお兄さん 投資行動分析ログ' }}">
+  <meta property="og:description"
+        content="{{ page.description | default: '公開発言から投資行動・市場認識・投資仮説・判断基準の変化を時系列で追跡。' }}">
+
+  <meta property="og:image"
+        content="https://guiltybc.github.io/economics-logs/hiro-investment-logs/file_00000000279081f98e8c42516d75c86e.png">
+
+  <meta property="og:url"
+        content="{{ page.url | absolute_url }}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title"
+        content="{{ page.title | default: 'ひろお兄さん 投資行動分析ログ' }}">
+  <meta name="twitter:description"
+        content="{{ page.description | default: '公開発言から投資行動と判断基準の変化を時系列で追跡。' }}">
+  <meta name="twitter:image"
+        content="https://guiltybc.github.io/economics-logs/hiro-investment-logs/file_00000000279081f98e8c42516d75c86e.png">
+
+  <style>
+    body {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   "Noto Sans JP", sans-serif;
+      line-height: 1.8;
+    }
+    img {
+      max-width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
