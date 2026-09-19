@@ -1,3 +1,9 @@
+---
+layout: hiro-log
+title: "2026年7月31日 投資行動分析ログ"
+description: "ひろ氏は、Apple、Amazon、Microsoft、Alphabet、MetaのBig Tech 5社について直近決算を比較し、その中からMicrosoftを最も投資対象として魅力的だと判断した。"
+---
+
 date: 2026-07-31 log_id: HIRO-2026-07-31 subject: 投資歴10年 ロジカルサバイバー ひろ action_type:
 
 自己購入
